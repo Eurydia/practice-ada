@@ -1,0 +1,1 @@
+main.adb:37:59: warning: "B" may be referenced before it has a value [enabled by default]

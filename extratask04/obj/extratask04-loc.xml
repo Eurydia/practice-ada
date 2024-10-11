@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker current="true" column=" 12" line=" 32" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04\src\bag.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_file>
+    <file_marker column=" 2" line=" 5">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 30">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\bag.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\Thanakorn\Documents\GitHub\practice-ada\extratask04.gpr</vfs_project>
+      <vfs_file >C:\Users\Thanakorn\Documents\GitHub\practice-ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

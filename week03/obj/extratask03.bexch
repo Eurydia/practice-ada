@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__extratask03.o
+[PROJECT FILES]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\week03.gpr
+20240924184004 4c958515d09765e74f67a8d671dd65a7
+[BOUND OBJECT FILES]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\obj\extratask03.o
+[GENERATED SOURCE FILES]
+b__extratask03.ads
+b__extratask03.adb
+b__extratask03.ali
+[RESULTING OPTIONS]
+-LC:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\obj\
+-LC:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

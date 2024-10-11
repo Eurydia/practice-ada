@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\parcel.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\parcel.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\parcel.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\set_q.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\set_q.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\parcel.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\parcel.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Users\Thanakorn\Documents\GitHub\practice-ada\assignment01\assignment01.gpr</vfs_project>
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\assignment01\src\parceltype.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Users\Thanakorn\Documents\GitHub\practice-ada\assignment01\assignment01.gpr</vfs_project>
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\assignment01\src\parceltype.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\set_q.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 36" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\set_q.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\ex21.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 16" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\src\ex21.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

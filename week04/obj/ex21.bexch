@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__ex21.o
+[PROJECT FILES]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\week04.gpr
+20241001175914 acdd6a2960022620c0248964a7b20a5e
+[BOUND OBJECT FILES]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\obj\set_q.o
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\obj\ex21.o
+[GENERATED SOURCE FILES]
+b__ex21.ads
+b__ex21.adb
+b__ex21.ali
+[RESULTING OPTIONS]
+-LC:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\obj\
+-LC:\Users\Thanakorn\Documents\GitHub\practice-ada\week04\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

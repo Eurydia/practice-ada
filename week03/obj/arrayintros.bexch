@@ -1,0 +1,22 @@
+[MAPPING FILE]
+C:\Users\THANAK~1\AppData\Local\Temp\GNAT-TEMP-000005.TMP
+[TOOLCHAIN VERSION]
+ada
+GNAT 2021
+[MAIN BASE NAME]
+arrayintros
+[COMPILER PATH]
+c:\gnat\2021\bin\gcc.exe
+[COMPILER LEADING SWITCHES]
+-c
+-x
+ada
+-gnatA
+[MAIN DEPENDENCY FILE]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\obj\arrayintros.ali
+[DEPENDENCY FILES]
+[BINDING OPTIONS]
+gnatbind_prefix=
+[PROJECT FILES]
+C:\Users\Thanakorn\Documents\GitHub\practice-ada\week03\week03.gpr
+20240924173840 78ac5d11662418985180b25da8be563a
